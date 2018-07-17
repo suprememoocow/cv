@@ -98,7 +98,7 @@ disable404 = true
         icon = "fa-user"
         title = "Career Profile"
         summary = """
-Established engineering leader with 20 years experience in building and scaling web and mobile applications.
+Established engineering leader with 20 years experience in building and scaling web and mobile applications. I value pragmatism, building relationships within my team and stakeholders, shipping early and observable systems and processes.
 """
 
     # Experiences section
@@ -163,9 +163,9 @@ Led the team from inception through to point at which Gitaly is handling thousan
 through
 * Established quality assurance and testing procedures for the team, rolled out feature flags for
 gradually ramping Gitaly usage up in our production environment
-* Focused on tracking down performance, scaling and availability issues with the new service * Worked with the team to establish a architecture for the product
+* Focused on tracking down performance, scaling and availability issues with the new service
+* Worked with the team to establish a architecture for the product
 * Recruitment for the team
-Page 2
 * Leading GitLab's Gitaly project, a Git RPC service with the aim of improving the performance of GitLab.com and other large GitLab sites.
 * As part of GitLab's acquisition of Gitter, also led the effort to open-source the Gitter code-base.
 
