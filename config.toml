@@ -1,6 +1,6 @@
 # Page settings
 
-baseurl = "https://andrew.newdigate.me/"
+baseurl = "https://andrew.newdigate.me/cv/"
 languageCode = "en-GB"
 title = "Andrew Newdigate"
 theme = "orbit"
