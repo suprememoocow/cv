@@ -122,7 +122,7 @@ Focused on making GitLab.com the premier code hosting site, my role involves:
 * Document the existing infrastructure of GitLab.com
 * Communicate about our infrastructure and roadmap within the company and externally through blog posts.
 
-Technologies used: Cloud: Google Cloud Platform. Infrastructure: Linux, Terraform, Kubernetes, Chef, Ansible. Languages: Golang, Ruby, Javascript. Observability: Prometheus, OpenTracing, Influxdb. Datastores: Postgres, Redis, ElasticSearch
+**Technologies used**: Cloud: Google Cloud Platform. Infrastructure: Linux, Terraform, Kubernetes, Chef, Ansible. Languages: Golang, Ruby, Javascript. Observability: Prometheus, OpenTracing, Influxdb. Datastores: Postgres, Redis, ElasticSearch
 """
 
         [[params.jobs.list]]
@@ -140,6 +140,14 @@ While taking on this role, I continued to directly manage the Gitaly team, the D
 * Drive quarterly OKRs (Objectives, Key-Results)
 * Work across sub-departments within engineering
 * Responsible for the quality, security, availability, reliability and performance of GitLab.com
+
+**Media**:
+
+* [Bloomberg TV: CEO of GitLab Inc discusses GCP Migration Project](https://www.youtube.com/watch?v=o7Y-aQgr8Dk&feature=youtu.be&t=34m30s)
+* [GitLab Blog: Moving from Azure to Google Cloud Platform](https://about.gitlab.com/2018/06/25/moving-to-gcp/)
+* [ZDNet: GitLab Moves from Azure to Google Cloud Platform](https://www.zdnet.com/article/gitlab-moves-from-azure-to-google-cloud-platform/)
+* [VentureBeat: Why and how GitLab abandoned Microsoft Azure for Google Cloud](https://venturebeat.com/2018/04/06/why-and-how-gitlab-abandoned-microsoft-azure-for-google-cloud/)
+
 """
         [[params.jobs.list]]
         position = "Git Infrastructure Lead"
@@ -161,7 +169,10 @@ Page 2
 * Leading GitLab's Gitaly project, a Git RPC service with the aim of improving the performance of GitLab.com and other large GitLab sites.
 * As part of GitLab's acquisition of Gitter, also led the effort to open-source the Gitter code-base.
 
-Technologies used: Golang, Ruby, Prometheus, Elasticsearch, git, libgit2, grpc
+**Technologies used**: Golang, Ruby, Prometheus, Elasticsearch, git, libgit2, grpc
+
+**Media**: [GitLab Blog: How a fix in Go 1.9 sped up our Gitaly service by 30x](https://about.gitlab.com/2018/01/23/how-a-fix-in-go-19-sped-up-our-gitaly-service-by-30x/)
+
 """
 
         [[params.jobs.list]]
@@ -200,6 +211,11 @@ Gitter is a modern cloud-based app built on universal/isomorphic Javascript usin
 The small team size means we automate as much as possible, including provisioning, deployment and reliability operations using Ansible, Jenkins, monit, Datadog, PagerDuty, Nomad, Consul and others. In four years, we’ve had only a handful of self-inflicted outages and we each time we’ve made changes to mitigate the problem occurring again.
 
 Maintained a hands-on approach to leading the team: writing and reviewing code, profiling and correcting production performance issues, working alongside our devops engineer to build out the EC2-based infrastructure, dealing with PagerDuty alerts and anything else that you may encounter as an engineer working in a small startup.
+
+**Media**:
+
+* [TheNextWeb: GitLab acquires software chat startup Gitter, will open-source the code](https://venturebeat.com/2017/03/15/gitlab-acquires-software-chat-startup-gitter-will-open-source-the-code/)
+* [Forbes: A New Professional Network For Coders Could Be The Next LinkedIn](https://www.forbes.com/sites/edmundingham/2015/12/16/starting-with-coders-gitter-is-creating-a-new-professional-network-that-could-be-the-next-linkedin/)
 
 [Older experience details available from my LinkedIn profile...](https://www.linkedin.com/in/andrewnewdigate/)
 """
