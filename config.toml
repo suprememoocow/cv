@@ -15,8 +15,9 @@ disable404 = true
 [params]
 
 # Meta
-    description = "Hugo Responsive Resume/CV Theme for Developers"
-    author = "Pavel Kanyshev"
+    title = "Andrew Newdigate: Curriculum Vitae"
+    description = "Curriculum Vitae"
+    author = "Andrew Newdigate"
 
 # Theme styles
 
